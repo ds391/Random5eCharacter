@@ -1,0 +1,57 @@
+Acolyte
+Anthropologist
+Archaeologist
+Black Fist Double Agent
+Caravan Specialist
+Charlatan
+City Watch
+Clan Crafter
+Cloistered Scholar
+Cormanthor Refugee
+Courtier
+Criminal
+Dissenter
+Dragon Casualty
+Earthspur Miner
+Entertainer
+Faction Agent
+Far Traveler
+Folk Hero
+Gate Urchin
+Gladiator
+Guild Artisan
+Guild Merchant
+Harborfolk
+Haunted One
+Hermit
+Hillsfar Merchant
+Hillsfar Smuggler
+House Agent
+Inheritor
+Initiate
+Inquisitor
+Investigator
+Iron Route Bandit
+Knight
+Knight of the Order
+Mercenary Veteran
+Mulmaster Aristocrat
+Noble
+Outlander
+Phlan Insurgent
+Phlan Refugee
+Pirate
+Sage
+Sailor
+Secret Identity
+Shade Fanatic
+Soldier
+Spy
+Stojanow Prisoner
+Ticklebelly Nomad
+Trade Sheriff
+Urban Bounty Hunter
+Urchin
+Uthgardt Tribe Member
+Vizier
+Waterdhavian Noble
