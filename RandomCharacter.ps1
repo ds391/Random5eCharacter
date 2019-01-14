@@ -20,3 +20,6 @@ $Background = Background
 $Trinket = Trinket
 
 Write-Host 'I am a' $Alignment $Race $Classes $Background 'With' $Trinket
+
+Write-Host -NoNewLine 'Press any key to continue...';
+$null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
